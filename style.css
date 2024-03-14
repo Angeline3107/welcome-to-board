@@ -24,13 +24,17 @@ nav {
     }
 
     .nav-ol {
-        margin-right: 10px;
         color:white ;
         list-style: none ;
         display: flex ;
         gap:2.5rem ;
         align-items: center ;
     }
+}
+
+li {
+    
+        padding-right: 10px;
 }
 
 .header-section1 {
