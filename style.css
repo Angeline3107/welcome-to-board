@@ -24,6 +24,7 @@ nav {
     }
 
     .nav-ol {
+        padding-right: 50px;
         color:white ;
         list-style: none ;
         display: flex ;
