@@ -18,12 +18,13 @@ nav {
     font-family: "Source Sans 3", sans-serif;
 
     .nav-img {
-        
+        margin: 10px;
         height: 2rem ;    
         margin: 10px 10px; 
     }
 
     .nav-ol {
+        padding-left: 20px;
         color:white ;
         list-style: none ;
         display: flex ;
